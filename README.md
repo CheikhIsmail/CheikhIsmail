@@ -28,4 +28,4 @@
 
 ---
 
-📫 Reach me at: [Your Email] | [LinkedIn Profile URL]
+📫 Reach me at: cahmedaicha@stud.macromedia.de | http://linkedin.com/in/cheikh-ahmed-aicha-84a432256
