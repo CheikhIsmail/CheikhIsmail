@@ -9,7 +9,6 @@
 - 🔍 Computer Vision
 - 🧠 Deep Learning & Generative AI
 - 📦 Backend Development (FastAPI, Docker)
-- 🤖 NLP & Whisper
 
 ## 🛠️ Tech Stack
 
