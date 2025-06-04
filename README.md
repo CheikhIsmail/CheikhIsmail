@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hey, I'm Cheikh Ahmed Aicha
 
-<!--
-**CheikhIsmail/CheikhIsmail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 AI student at Macromedia University (Regent's London Program)  
+💻 Passionate about Deep Learning, Computer Vision, and AI  
+🚀 Building full-stack apps with Python, FastAPI, Next.js, and Docker  
+🌍 Open to internships and collaborative opportunities in Germany
 
-Here are some ideas to get you started:
+## 🧠 Areas of Interest
+- 🔍 Computer Vision
+- 🧠 Deep Learning & Generative AI
+- 📦 Backend Development (FastAPI, Docker)
+- 🤖 NLP & Whisper
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+- **Languages:** Python
+- **Web Frameworks:** FastAPI, Flask,  
+- **Deep learning:** PyTorch, CNNs, GANs,OpenCv,YOLO  
+- **Databases:** SQLite  
+- **Tools:** Docker, Git, GitHub, VS Code  
+- **Package Managers:** pip, npm  
+
+
+## 📂 Featured Projects  
+- [GAN Image Generator](#) – CIFAR-10, PyTorch  
+- [Research Portal](#) – Flask + SQLite + HTML/CSS  
+- [ResNet-18 Image Classifier](#) – CIFAR-10, PyTorch
+
+---
+
+📫 Reach me at: [Your Email] | [LinkedIn Profile URL]
