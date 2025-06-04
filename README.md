@@ -22,9 +22,7 @@
 
 
 ## 📂 Featured Projects  
-- [GAN Image Generator](#) – CIFAR-10, PyTorch  
-- [Research Portal](#) – Flask + SQLite + HTML/CSS  
-- [ResNet-18 Image Classifier](#) – CIFAR-10, PyTorch
+see my projects in repo
 
 ---
 
