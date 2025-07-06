@@ -20,9 +20,4 @@
 - **Package Managers:** pip, npm  
 
 
-## 📂 Featured Projects  
-see my projects in repo
-
----
-
 📫 Reach me at: cahmedaicha@stud.macromedia.de | http://linkedin.com/in/cheikh-ahmed-aicha-84a432256
