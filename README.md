@@ -1,6 +1,4 @@
 # 👋 Hey, I'm Cheikh Ahmed Aicha
-
-🎓 AI student at Macromedia University (Regent's London Program)  
 💻 Passionate about Deep Learning, Computer Vision, and AI  
 🚀 Building full-stack apps with Python, FastAPI, Next.js, and Docker  
 🌍 Open to internships and collaborative opportunities in Germany
